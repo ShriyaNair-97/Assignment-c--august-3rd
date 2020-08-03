@@ -1,0 +1,7 @@
+E:\Assignmentc#1(Array interface and Abstract)\ConsoleInheritance\bin\Debug\ConsoleInheritance.exe.config
+E:\Assignmentc#1(Array interface and Abstract)\ConsoleInheritance\bin\Debug\ConsoleInheritance.exe
+E:\Assignmentc#1(Array interface and Abstract)\ConsoleInheritance\bin\Debug\ConsoleInheritance.pdb
+E:\Assignmentc#1(Array interface and Abstract)\ConsoleInheritance\obj\Debug\ConsoleInheritance.csprojAssemblyReference.cache
+E:\Assignmentc#1(Array interface and Abstract)\ConsoleInheritance\obj\Debug\ConsoleInheritance.csproj.CoreCompileInputs.cache
+E:\Assignmentc#1(Array interface and Abstract)\ConsoleInheritance\obj\Debug\ConsoleInheritance.exe
+E:\Assignmentc#1(Array interface and Abstract)\ConsoleInheritance\obj\Debug\ConsoleInheritance.pdb

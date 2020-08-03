@@ -1,0 +1,7 @@
+E:\Assignmentc#1(Array interface and Abstract)\StringOperations\bin\Debug\StringOperations.exe.config
+E:\Assignmentc#1(Array interface and Abstract)\StringOperations\bin\Debug\StringOperations.exe
+E:\Assignmentc#1(Array interface and Abstract)\StringOperations\bin\Debug\StringOperations.pdb
+E:\Assignmentc#1(Array interface and Abstract)\StringOperations\obj\Debug\StringOperations.csprojAssemblyReference.cache
+E:\Assignmentc#1(Array interface and Abstract)\StringOperations\obj\Debug\StringOperations.csproj.CoreCompileInputs.cache
+E:\Assignmentc#1(Array interface and Abstract)\StringOperations\obj\Debug\StringOperations.exe
+E:\Assignmentc#1(Array interface and Abstract)\StringOperations\obj\Debug\StringOperations.pdb
